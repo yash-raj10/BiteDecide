@@ -1,0 +1,252 @@
+[
+  {
+    "id": "1",
+    "name": "Butter Chicken",
+    "description": "A rich and creamy North Indian curry made with tender chicken in a tomato-based sauce with butter and spices. Mildly spiced and comforting, it's perfect for those who enjoy hearty, warming dishes. Often paired with naan or rice."
+  },
+  {
+    "id": "2",
+    "name": "Margherita Pizza",
+    "description": "A classic Italian pizza with fresh tomato sauce, mozzarella cheese, and basil leaves. Simple yet satisfying, it's ideal for those craving something cheesy and comforting without being too heavy."
+  },
+  {
+    "id": "3",
+    "name": "Spicy Ramen",
+    "description": "A Japanese noodle soup with a spicy broth, soft-boiled egg, pork slices, and green onions. Perfect for cold days or when you want something warm with a kick. Popular as a late-night comfort food."
+  },
+  {
+    "id": "4",
+    "name": "Caesar Salad",
+    "description": "A fresh American salad with romaine lettuce, parmesan cheese, croutons, and creamy Caesar dressing. Light yet flavorful, it's great as a starter or a healthy main. Often topped with grilled chicken."
+  },
+  {
+    "id": "5",
+    "name": "Pad Thai",
+    "description": "A Thai stir-fried rice noodle dish with shrimp, tofu, peanuts, and a tangy tamarind sauce. Sweet, sour, and savory all at once. A go-to street food that satisfies complex flavor cravings."
+  },
+  {
+    "id": "6",
+    "name": "Veggie Burger",
+    "description": "An American-style burger made with a vegetable or bean patty, fresh lettuce, tomato, and sauce. A satisfying option for vegetarians who want classic burger comfort without meat."
+  },
+  {
+    "id": "7",
+    "name": "Sushi Platter",
+    "description": "An assortment of Japanese sushi rolls and nigiri with fresh fish like salmon and tuna. Light, elegant, and best enjoyed when you want something refined and healthy."
+  },
+  {
+    "id": "8",
+    "name": "Tacos Al Pastor",
+    "description": "Mexican tacos filled with marinated pork, pineapple, onions, and cilantro. Spicy, sweet, and savory with a hint of smokiness. Perfect for casual dining or street food cravings."
+  },
+  {
+    "id": "9",
+    "name": "Paneer Tikka",
+    "description": "Chunks of Indian cottage cheese marinated in spices and grilled until smoky and charred. A popular vegetarian appetizer with bold, smoky flavors. Great with mint chutney."
+  },
+  {
+    "id": "10",
+    "name": "Fish and Chips",
+    "description": "A British classic featuring battered and fried fish with thick-cut chips. Crispy, comforting, and satisfying. Best enjoyed with malt vinegar and mushy peas."
+  },
+  {
+    "id": "11",
+    "name": "Falafel Wrap",
+    "description": "Crispy fried chickpea balls wrapped in pita with tahini, vegetables, and pickles. A Mediterranean favorite that's filling and flavorful. Popular as a quick, healthy lunch."
+  },
+  {
+    "id": "12",
+    "name": "Chicken Biryani",
+    "description": "A fragrant Indian rice dish layered with spiced chicken, saffron, and fried onions. Aromatic and rich, it's a celebratory meal often chosen for special occasions or when craving something indulgent."
+  },
+  {
+    "id": "13",
+    "name": "Mushroom Risotto",
+    "description": "A creamy Italian rice dish slow-cooked with mushrooms, parmesan, and white wine. Earthy and luxurious, perfect for a cozy dinner when you want something rich and warming."
+  },
+  {
+    "id": "14",
+    "name": "BBQ Ribs",
+    "description": "American-style pork ribs slow-cooked and glazed with smoky barbecue sauce. Tender, messy, and deeply satisfying. A classic choice for barbecue lovers and weekend gatherings."
+  },
+  {
+    "id": "15",
+    "name": "Tom Yum Soup",
+    "description": "A hot and sour Thai soup with shrimp, mushrooms, lemongrass, and lime. Bright and refreshing with a spicy kick. Great as a starter or light meal when you want bold flavors."
+  },
+  {
+    "id": "16",
+    "name": "Grilled Salmon",
+    "description": "Fresh salmon fillet grilled with herbs and lemon. Healthy, light, and packed with omega-3s. Ideal for those seeking a nutritious yet flavorful main course."
+  },
+  {
+    "id": "17",
+    "name": "Chole Bhature",
+    "description": "A North Indian dish of spiced chickpea curry served with deep-fried bread. Hearty and indulgent, it's a popular breakfast or brunch choice with bold, tangy flavors."
+  },
+  {
+    "id": "18",
+    "name": "Pepperoni Pizza",
+    "description": "An American-style pizza topped with spicy pepperoni slices and melted mozzarella. A crowd-pleaser that's savory, slightly spicy, and perfect for sharing."
+  },
+  {
+    "id": "19",
+    "name": "Green Curry",
+    "description": "A Thai curry made with coconut milk, green chili paste, and vegetables or chicken. Creamy yet spicy with fresh herbal notes. Comforting and aromatic."
+  },
+  {
+    "id": "20",
+    "name": "Veggie Sushi",
+    "description": "Japanese sushi rolls filled with cucumber, avocado, and pickled vegetables. Light and refreshing, perfect for vegetarians or those seeking a healthy, clean-tasting meal."
+  },
+  {
+    "id": "21",
+    "name": "Kung Pao Chicken",
+    "description": "A spicy Chinese stir-fry with chicken, peanuts, and dried chilies. Bold and crunchy with a perfect balance of heat and sweetness. A takeout classic."
+  },
+  {
+    "id": "22",
+    "name": "Cheeseburger",
+    "description": "A classic American burger with a beef patty, melted cheese, lettuce, tomato, and pickles. Juicy, satisfying, and universally loved. The ultimate comfort food."
+  },
+  {
+    "id": "23",
+    "name": "Palak Paneer",
+    "description": "Indian cottage cheese cubes in a creamy spinach gravy. Mild and nutritious, it's a vegetarian favorite that's both comforting and healthy. Pairs well with naan."
+  },
+  {
+    "id": "24",
+    "name": "Pho",
+    "description": "A Vietnamese noodle soup with aromatic beef broth, rice noodles, and fresh herbs. Light yet deeply flavorful, it's perfect for when you want something warming and restorative."
+  },
+  {
+    "id": "25",
+    "name": "Greek Salad",
+    "description": "A Mediterranean salad with cucumbers, tomatoes, olives, and feta cheese. Fresh, tangy, and healthy. A light choice for summer meals or as a refreshing side."
+  },
+  {
+    "id": "26",
+    "name": "Chicken Shawarma",
+    "description": "Middle Eastern spiced chicken wrapped in pita with garlic sauce and pickles. Savory and aromatic, it's a popular quick meal with complex spice flavors."
+  },
+  {
+    "id": "27",
+    "name": "Carbonara Pasta",
+    "description": "An Italian pasta with creamy egg sauce, crispy pancetta, and parmesan. Rich and indulgent, it's comfort food at its finest. Best when you crave something decadent."
+  },
+  {
+    "id": "28",
+    "name": "Dosa",
+    "description": "A thin, crispy South Indian crepe made from fermented rice batter. Light and versatile, served with sambar and chutneys. A popular breakfast choice in India."
+  },
+  {
+    "id": "29",
+    "name": "Beef Burrito",
+    "description": "A Mexican tortilla filled with seasoned beef, rice, beans, and salsa. Hearty and filling, it's perfect when you want a portable, satisfying meal with bold flavors."
+  },
+  {
+    "id": "30",
+    "name": "Tempura",
+    "description": "Japanese-style battered and fried shrimp and vegetables. Light, crispy, and delicate. Often served as an appetizer or with rice for a complete meal."
+  },
+  {
+    "id": "31",
+    "name": "Masala Dosa",
+    "description": "A crispy South Indian crepe filled with spiced potato filling. Served with coconut chutney and sambar. A beloved breakfast that's both satisfying and flavorful."
+  },
+  {
+    "id": "32",
+    "name": "Idli Sambar",
+    "description": "Soft, steamed South Indian rice cakes served with lentil soup and chutneys. Light, healthy, and easy to digest. A classic South Indian breakfast staple."
+  },
+  {
+    "id": "33",
+    "name": "Vada",
+    "description": "Crispy, deep-fried South Indian lentil donuts with a soft interior. Served with sambar and coconut chutney. A popular snack or breakfast item with bold flavors."
+  },
+  {
+    "id": "34",
+    "name": "Uttapam",
+    "description": "A thick South Indian pancake topped with onions, tomatoes, and chilies. Soft and savory, it's like a healthier pizza. Great for breakfast or a light meal."
+  },
+  {
+    "id": "35",
+    "name": "Rasam",
+    "description": "A tangy, peppery South Indian soup made with tamarind and tomatoes. Light and warming, it aids digestion and is often enjoyed with rice or as a starter."
+  },
+  {
+    "id": "36",
+    "name": "Mango Lassi",
+    "description": "A sweet and creamy Indian yogurt drink blended with ripe mangoes. Refreshing and cooling, perfect as a dessert drink or to balance spicy meals."
+  },
+  {
+    "id": "37",
+    "name": "Masala Chai",
+    "description": "A spiced Indian tea brewed with milk, ginger, cardamom, and cinnamon. Warming and aromatic, it's the perfect pick-me-up any time of day."
+  },
+  {
+    "id": "38",
+    "name": "Cold Coffee",
+    "description": "A chilled, creamy coffee drink blended with ice and milk. Sweet and refreshing, it's a popular choice for coffee lovers on hot days."
+  },
+  {
+    "id": "39",
+    "name": "Fresh Lime Soda",
+    "description": "A refreshing Indian drink made with lime juice, soda water, and a touch of salt or sugar. Tangy and revitalizing, perfect for beating the heat."
+  },
+  {
+    "id": "40",
+    "name": "Cappuccino",
+    "description": "An Italian espresso-based coffee with steamed milk foam. Rich and creamy with a perfect balance of coffee and milk. A café classic."
+  },
+  {
+    "id": "41",
+    "name": "Tiramisu",
+    "description": "A classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream. Rich, creamy, and indulgent with a hint of cocoa."
+  },
+  {
+    "id": "42",
+    "name": "Penne Arrabbiata",
+    "description": "An Italian pasta in a spicy tomato sauce with garlic and red chilies. Simple yet bold, it's perfect when you want something with a kick."
+  },
+  {
+    "id": "43",
+    "name": "Bruschetta",
+    "description": "Toasted Italian bread topped with fresh tomatoes, basil, and olive oil. Light and flavorful, it's a perfect appetizer or snack."
+  },
+  {
+    "id": "44",
+    "name": "Gnocchi",
+    "description": "Soft Italian potato dumplings served with creamy sage butter or tomato sauce. Pillowy and comforting, a unique alternative to regular pasta."
+  },
+  {
+    "id": "45",
+    "name": "Dal Makhani",
+    "description": "A rich North Indian lentil dish slow-cooked with butter and cream. Creamy, hearty, and deeply satisfying. A restaurant favorite paired with naan."
+  },
+  {
+    "id": "46",
+    "name": "Rajma Chawal",
+    "description": "North Indian kidney bean curry served over steamed rice. Homestyle comfort food that's hearty, flavorful, and nostalgic for many Indians."
+  },
+  {
+    "id": "47",
+    "name": "Pav Bhaji",
+    "description": "A spiced vegetable mash served with buttered bread rolls. A popular Mumbai street food that's tangy, spicy, and incredibly satisfying."
+  },
+  {
+    "id": "48",
+    "name": "Hyderabadi Biryani",
+    "description": "A fragrant rice dish from Hyderabad with layered spiced meat and saffron rice. Aromatic and royal, it's known for its distinctive dum cooking style."
+  },
+  {
+    "id": "49",
+    "name": "Filter Coffee",
+    "description": "A strong South Indian coffee brewed with a metal filter and mixed with hot milk. Bold, aromatic, and frothy. A must-try for coffee enthusiasts."
+  },
+  {
+    "id": "50",
+    "name": "Coconut Water",
+    "description": "Fresh, natural water from young coconuts. Hydrating and mildly sweet with natural electrolytes. The ultimate refreshing tropical drink."
+  }
+]
