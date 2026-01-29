@@ -2,6 +2,7 @@ package main
 
 import (
 	"log"
+	"net/http"
 	"os"
 	"server2/engine"
 	"server2/handlers"
@@ -41,6 +42,12 @@ func main() {
 		AllowHeaders:     []string{"Origin", "Content-Type"},
 		AllowCredentials: true,
 	}))
+
+	r.GET("/", func(c *gin.Context) {
+		c.JSON(http.StatusOK, gin.H{
+			"Home route": "everything okay!",
+		})
+	})
 
 	r.POST("/session", handler.CreateSession)
 	r.GET("/recommendation", handler.GetRecommendation)

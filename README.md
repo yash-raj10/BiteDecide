@@ -1,4 +1,4 @@
-# Food Swipe Recommender
+``# Food Swipe Recommender
 
 A swipe-based food recommendation app that helps you decide what to eat.
 
@@ -266,7 +266,6 @@ docker build -t bite-decide-backend .
 docker run -p 8000:8000 -e OPENAI_API_KEY="your-key-here" bite-decide-backend
 ```
 
-
 ### Start Frontend
 
 ```bash
@@ -326,7 +325,6 @@ Processes a swipe action and updates intent vector.
 
 ---
 
-
 ## Testing
 
 Run unit tests:
@@ -369,4 +367,3 @@ go test ./...
         ├── session.go         # Session data structures
         └── swipe.go           # Swipe action types
 ```
-
