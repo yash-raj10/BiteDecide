@@ -45,7 +45,7 @@ func main() {
 
 	r.GET("/", func(c *gin.Context) {
 		c.JSON(http.StatusOK, gin.H{
-			"Home route": "everything okay!",
+			"Home route": "i guess everything fine! ",
 		})
 	})
 
