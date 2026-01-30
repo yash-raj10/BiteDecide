@@ -1,0 +1,30 @@
+name: Deploy Backend
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "server2/**"
+      - ".github/workflows/deploy.yml"
+
+jobs:
+  backend-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@1.0.3
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          envs: OPENAI_API_KEY
+          script: |
+            cd /home/ubuntu/BiteDecide
+            git pull
+            cd /home/ubuntu/BiteDecide/server2
+            export OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}
+            docker compose up --build -d
